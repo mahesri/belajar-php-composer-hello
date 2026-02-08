@@ -1,9 +1,8 @@
 <?php
 
-namespace RiyadiDotDev\Belajar;
+namespace RiyadiDotDev\BelajarPhpComposerHello;
 
 class Customer {
-
 
     public function __construct(private string $name){}
 
